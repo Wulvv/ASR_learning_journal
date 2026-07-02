@@ -1,0 +1,14 @@
+Data Check Report
+=================
+Text file: /home/asr_user/asr_learning/Day01/sample_text.txt
+Audio directory: /home/asr_user/asr_learning/Day01/../data/audio
+Total text entries: 3
+Total audio files: 2
+Missing audio count: 1
+Missing text count: 0
+
+Missing audio IDs:
+- utt003
+
+Missing text IDs:
+None
