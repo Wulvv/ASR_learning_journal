@@ -1,0 +1,20 @@
+Dataset Summary
+================
+Text file: /home/asr_user/asr_learning/Day01/sample_text.txt
+Audio dir: /home/asr_user/asr_learning/Day01/../data/audio
+Audio file count: 2
+Total audio duration (s): 8.296812
+
+Text statistics:
+  Average chars: 28.33
+  Max chars: 58
+
+Missing information:
+  Missing audio count: 1
+  Missing text count: 0
+
+Missing audio IDs:
+- utt003
+
+Missing text IDs:
+None

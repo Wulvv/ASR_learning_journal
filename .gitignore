@@ -1,0 +1,38 @@
+# 音频和视频文件
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.mp4
+
+# 压缩包
+*.tgz
+*.tar.gz
+*.zip
+
+# 数据目录（避免上传下载的数据集）
+data/
+
+# 练习用的音频目录
+audio/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境（不要上传整个 conda 环境）
+env/
+venv/
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
